@@ -1,0 +1,282 @@
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:05:23"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 04:05:23"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 04:05:23"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 04:05:23"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 04:06:46"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:06:55"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 04:06:55"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 04:06:55"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 04:06:55"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 04:07:15"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:07:24"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 04:07:24"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 04:07:24"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 04:07:24"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 04:07:42"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:07:52"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 04:07:52"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 04:07:52"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 04:07:52"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 04:33:16"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:34:06"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 04:34:06"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 04:34:06"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:34:06"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 04:34:06"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 04:34:30"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:34:39"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 04:34:39"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 04:34:39"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:34:39"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 04:34:39"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 04:40:30"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:40:40"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 04:40:40"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 04:40:40"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:40:40"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 04:40:40"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 04:44:46"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:44:59"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 04:44:59"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 04:44:59"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:44:59"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 04:44:59"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 04:46:03"}
+{"level":"info","message":"Server closed","service":"gifted-eternity","timestamp":"2025-12-29 04:46:03"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:46:08"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 04:46:08"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 04:46:08"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:46:08"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 04:46:08"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 04:46:56"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:47:06"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 04:47:06"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 04:47:06"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:47:06"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 04:47:06"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 04:53:29"}
+{"level":"info","message":"Server closed","service":"gifted-eternity","timestamp":"2025-12-29 04:53:31"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:53:36"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 04:53:36"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 04:53:36"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 04:53:36"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 04:53:36"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 05:00:30"}
+{"level":"info","message":"Server closed","service":"gifted-eternity","timestamp":"2025-12-29 05:00:31"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:00:36"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 05:00:36"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 05:00:36"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:00:36"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 05:00:36"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 05:04:11"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:04:22"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 05:04:22"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 05:04:22"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:04:22"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 05:04:23"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 05:04:56"}
+{"level":"info","message":"Server closed","service":"gifted-eternity","timestamp":"2025-12-29 05:04:58"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:05:02"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 05:05:02"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 05:05:02"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:05:02"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 05:05:02"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 05:05:44"}
+{"level":"info","message":"Server closed","service":"gifted-eternity","timestamp":"2025-12-29 05:05:45"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:05:49"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 05:05:49"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 05:05:49"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:05:49"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 05:05:49"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 05:09:31"}
+{"level":"info","message":"Server closed","service":"gifted-eternity","timestamp":"2025-12-29 05:09:33"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:09:38"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 05:09:38"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 05:09:38"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:09:38"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 05:09:38"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 05:10:16"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:10:26"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 05:10:26"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 05:10:26"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:10:26"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 05:10:26"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","service":"gifted-eternity","timestamp":"2025-12-29 05:10:58"}
+{"level":"info","message":"Server closed","service":"gifted-eternity","timestamp":"2025-12-29 05:11:00"}
+{"dsn":"https://962d173a894df4e4c23c744f8c39d6f3@sentry.butterflyotel.online/9","level":"info","message":"Sentry initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:11:04"}
+{"level":"warn","message":"SENDGRID_API_KEY not configured. Email service disabled.","service":"gifted-eternity","timestamp":"2025-12-29 05:11:04"}
+{"level":"info","message":"Services initialized successfully","service":"gifted-eternity","timestamp":"2025-12-29 05:11:04"}
+{"level":"info","message":"WebSocket server initialized","service":"gifted-eternity","timestamp":"2025-12-29 05:11:04"}
+{"level":"info","message":"Server running on http://localhost:3000/","service":"gifted-eternity","timestamp":"2025-12-29 05:11:05"}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009859758","timestamp":"2025-12-29 07:04:19","title":"Test Stream"}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009859765","timestamp":"2025-12-29 07:04:19","title":"Test Stream"}
+{"duration":0,"level":"info","message":"Livestream ended","service":"gifted-eternity","streamId":"stream_1_1767009859765","timestamp":"2025-12-29 07:04:19","viewers":0}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009859766","timestamp":"2025-12-29 07:04:19","title":"Test Stream"}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767009859766","timestamp":"2025-12-29 07:04:19","totalViewers":1,"userId":100}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767009859766","timestamp":"2025-12-29 07:04:19","totalViewers":2,"userId":101}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009859768","timestamp":"2025-12-29 07:04:19","title":"Test Stream"}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767009859768","timestamp":"2025-12-29 07:04:19","totalViewers":1,"userId":100}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767009859768","timestamp":"2025-12-29 07:04:19","totalViewers":2,"userId":101}
+{"level":"info","message":"Viewer left stream","service":"gifted-eternity","streamId":"stream_1_1767009859768","timestamp":"2025-12-29 07:04:19","totalViewers":1,"userId":100}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009859770","timestamp":"2025-12-29 07:04:19","title":"Stream 1"}
+{"artistId":2,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_2_1767009859770","timestamp":"2025-12-29 07:04:19","title":"Stream 2"}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009859771","timestamp":"2025-12-29 07:04:19","title":"Test Stream"}
+{"artistId":2,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_2_1767009859771","timestamp":"2025-12-29 07:04:19","title":"Other Stream"}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767009859772","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19"}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767009859773","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767009859773","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","userId":100}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767009859773","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767009859773","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","userId":100}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767009859774","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767009859774","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","userId":100}
+{"level":"info","message":"Order created","orderId":"order_100_1767009859775","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","total":39.98,"userId":100}
+{"level":"info","message":"Product created","name":"Product 1","price":10,"productId":"product_1_1767009859776","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19"}
+{"level":"info","message":"Product created","name":"Product 2","price":20,"productId":"product_1_1767009859776","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19"}
+{"level":"info","message":"Product created","name":"Product 3","price":30,"productId":"product_2_1767009859776","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19"}
+{"level":"info","message":"Product created","name":"Product 1","price":10,"productId":"product_1_1767009859789","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19"}
+{"level":"info","message":"Product created","name":"Product 2","price":20,"productId":"product_1_1767009859790","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767009859789","quantity":5,"service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","userId":100}
+{"level":"info","message":"Order created","orderId":"order_100_1767009859790","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","total":50,"userId":100}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Embed code generated","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Playlist embed code generated","playlistId":1,"service":"gifted-eternity","timestamp":"2025-12-29 07:04:19"}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:04:19","trackId":2}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009867877","timestamp":"2025-12-29 07:04:27","title":"Test Stream"}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009867885","timestamp":"2025-12-29 07:04:27","title":"Test Stream"}
+{"duration":0,"level":"info","message":"Livestream ended","service":"gifted-eternity","streamId":"stream_1_1767009867885","timestamp":"2025-12-29 07:04:27","viewers":0}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009867886","timestamp":"2025-12-29 07:04:27","title":"Test Stream"}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767009867886","timestamp":"2025-12-29 07:04:27","totalViewers":1,"userId":100}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767009867886","timestamp":"2025-12-29 07:04:27","totalViewers":2,"userId":101}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009867888","timestamp":"2025-12-29 07:04:27","title":"Test Stream"}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767009867888","timestamp":"2025-12-29 07:04:27","totalViewers":1,"userId":100}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767009867888","timestamp":"2025-12-29 07:04:27","totalViewers":2,"userId":101}
+{"level":"info","message":"Viewer left stream","service":"gifted-eternity","streamId":"stream_1_1767009867888","timestamp":"2025-12-29 07:04:27","totalViewers":1,"userId":100}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009867902","timestamp":"2025-12-29 07:04:27","title":"Stream 1"}
+{"artistId":2,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_2_1767009867902","timestamp":"2025-12-29 07:04:27","title":"Stream 2"}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767009867903","timestamp":"2025-12-29 07:04:27","title":"Test Stream"}
+{"artistId":2,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_2_1767009867903","timestamp":"2025-12-29 07:04:27","title":"Other Stream"}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767009867904","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27"}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767009867905","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767009867905","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","userId":100}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767009867906","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767009867906","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","userId":100}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767009867907","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767009867907","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","userId":100}
+{"level":"info","message":"Order created","orderId":"order_100_1767009867907","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","total":39.98,"userId":100}
+{"level":"info","message":"Product created","name":"Product 1","price":10,"productId":"product_1_1767009867921","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27"}
+{"level":"info","message":"Product created","name":"Product 2","price":20,"productId":"product_1_1767009867922","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27"}
+{"level":"info","message":"Product created","name":"Product 3","price":30,"productId":"product_2_1767009867922","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27"}
+{"level":"info","message":"Product created","name":"Product 1","price":10,"productId":"product_1_1767009867922","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27"}
+{"level":"info","message":"Product created","name":"Product 2","price":20,"productId":"product_1_1767009867923","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767009867922","quantity":5,"service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","userId":100}
+{"level":"info","message":"Order created","orderId":"order_100_1767009867930","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","total":50,"userId":100}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Embed code generated","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Playlist embed code generated","playlistId":1,"service":"gifted-eternity","timestamp":"2025-12-29 07:04:27"}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:04:27","trackId":2}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010756663","timestamp":"2025-12-29 07:19:16","title":"Test Stream"}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010756739","timestamp":"2025-12-29 07:19:16","title":"Test Stream"}
+{"duration":0,"level":"info","message":"Livestream ended","service":"gifted-eternity","streamId":"stream_1_1767010756739","timestamp":"2025-12-29 07:19:16","viewers":0}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010756742","timestamp":"2025-12-29 07:19:16","title":"Test Stream"}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767010756742","timestamp":"2025-12-29 07:19:16","totalViewers":1,"userId":100}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767010756742","timestamp":"2025-12-29 07:19:16","totalViewers":2,"userId":101}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010756746","timestamp":"2025-12-29 07:19:16","title":"Test Stream"}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767010756746","timestamp":"2025-12-29 07:19:16","totalViewers":1,"userId":100}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767010756746","timestamp":"2025-12-29 07:19:16","totalViewers":2,"userId":101}
+{"level":"info","message":"Viewer left stream","service":"gifted-eternity","streamId":"stream_1_1767010756746","timestamp":"2025-12-29 07:19:16","totalViewers":1,"userId":100}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010756749","timestamp":"2025-12-29 07:19:16","title":"Stream 1"}
+{"artistId":2,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_2_1767010756750","timestamp":"2025-12-29 07:19:16","title":"Stream 2"}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010756751","timestamp":"2025-12-29 07:19:16","title":"Test Stream"}
+{"artistId":2,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_2_1767010756751","timestamp":"2025-12-29 07:19:16","title":"Other Stream"}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767010756754","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16"}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767010756755","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767010756755","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","userId":100}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767010756756","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767010756756","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","userId":100}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767010756758","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767010756758","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","userId":100}
+{"level":"info","message":"Order created","orderId":"order_100_1767010756759","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","total":39.98,"userId":100}
+{"level":"info","message":"Product created","name":"Product 1","price":10,"productId":"product_1_1767010756760","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16"}
+{"level":"info","message":"Product created","name":"Product 2","price":20,"productId":"product_1_1767010756760","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16"}
+{"level":"info","message":"Product created","name":"Product 3","price":30,"productId":"product_2_1767010756760","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16"}
+{"level":"info","message":"Product created","name":"Product 1","price":10,"productId":"product_1_1767010756966","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16"}
+{"level":"info","message":"Product created","name":"Product 2","price":20,"productId":"product_1_1767010756969","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767010756966","quantity":5,"service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","userId":100}
+{"level":"info","message":"Order created","orderId":"order_100_1767010756970","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","total":50,"userId":100}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Embed code generated","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Playlist embed code generated","playlistId":1,"service":"gifted-eternity","timestamp":"2025-12-29 07:19:16"}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:19:16","trackId":2}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010930046","timestamp":"2025-12-29 07:22:10","title":"Test Stream"}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010930053","timestamp":"2025-12-29 07:22:10","title":"Test Stream"}
+{"duration":0,"level":"info","message":"Livestream ended","service":"gifted-eternity","streamId":"stream_1_1767010930053","timestamp":"2025-12-29 07:22:10","viewers":0}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010930055","timestamp":"2025-12-29 07:22:10","title":"Test Stream"}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767010930055","timestamp":"2025-12-29 07:22:10","totalViewers":1,"userId":100}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767010930055","timestamp":"2025-12-29 07:22:10","totalViewers":2,"userId":101}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010930057","timestamp":"2025-12-29 07:22:10","title":"Test Stream"}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767010930057","timestamp":"2025-12-29 07:22:10","totalViewers":1,"userId":100}
+{"level":"info","message":"Viewer joined stream","service":"gifted-eternity","streamId":"stream_1_1767010930057","timestamp":"2025-12-29 07:22:10","totalViewers":2,"userId":101}
+{"level":"info","message":"Viewer left stream","service":"gifted-eternity","streamId":"stream_1_1767010930057","timestamp":"2025-12-29 07:22:10","totalViewers":1,"userId":100}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010930061","timestamp":"2025-12-29 07:22:10","title":"Stream 1"}
+{"artistId":2,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_2_1767010930061","timestamp":"2025-12-29 07:22:10","title":"Stream 2"}
+{"artistId":1,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_1_1767010930062","timestamp":"2025-12-29 07:22:10","title":"Test Stream"}
+{"artistId":2,"level":"info","message":"Livestream started","service":"gifted-eternity","streamId":"stream_2_1767010930062","timestamp":"2025-12-29 07:22:10","title":"Other Stream"}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767010930063","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10"}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767010930064","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767010930064","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","userId":100}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767010930065","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767010930065","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","userId":100}
+{"level":"info","message":"Product created","name":"Test T-Shirt","price":19.99,"productId":"product_1_1767010930066","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767010930066","quantity":2,"service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","userId":100}
+{"level":"info","message":"Order created","orderId":"order_100_1767010930066","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","total":39.98,"userId":100}
+{"level":"info","message":"Product created","name":"Product 1","price":10,"productId":"product_1_1767010930067","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10"}
+{"level":"info","message":"Product created","name":"Product 2","price":20,"productId":"product_1_1767010930067","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10"}
+{"level":"info","message":"Product created","name":"Product 3","price":30,"productId":"product_2_1767010930067","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10"}
+{"level":"info","message":"Product created","name":"Product 1","price":10,"productId":"product_1_1767010930085","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10"}
+{"level":"info","message":"Product created","name":"Product 2","price":20,"productId":"product_1_1767010930085","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10"}
+{"level":"info","message":"Item added to cart","productId":"product_1_1767010930085","quantity":5,"service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","userId":100}
+{"level":"info","message":"Order created","orderId":"order_100_1767010930085","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","total":100,"userId":100}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Embed code generated","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Playlist embed code generated","playlistId":1,"service":"gifted-eternity","timestamp":"2025-12-29 07:22:10"}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Share tracked","platform":"twitter","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":1}
+{"level":"info","message":"Share tracked","platform":"facebook","service":"gifted-eternity","timestamp":"2025-12-29 07:22:10","trackId":2}
